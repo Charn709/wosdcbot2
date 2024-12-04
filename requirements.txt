@@ -1,0 +1,4 @@
+aiohttp==3.10.10
+discord.py==2.4.0
+Requests==2.32.3
+wcwidth==0.2.13
